@@ -10,5 +10,6 @@ Hi! I'm Marx. I am still too emotionally attached to the **Sysadmin** title to l
 
 [![E-mail](https://img.shields.io/static/v1?label=email&message=me@carlosmarx.com&color=8B89CC&style=for-the-badge&logo=protonmail)](mailto:me@carlosmarx.com)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=setsevireon&color=0A66C2&style=for-the-badge&logo=linkedin)](http://linkedin.com/in/setsevireon)
+
 [![GitHub](https://img.shields.io/static/v1?label=github&message=setsevireon&color=181717&style=for-the-badge&logo=github)](https://github.com/setsevireon)
 [![Website](https://img.shields.io/static/v1?label=website&message=setsevireon.dev&color=00C7B7&style=for-the-badge&logo=netlify)](http://setsevireon.dev)
