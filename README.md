@@ -11,4 +11,4 @@ Hi! I'm Marx. I am still too emotionally attached to the **Sysadmin** title to l
 [![E-mail](https://img.shields.io/static/v1?label=&message=email&color=8B89CC&style=for-the-badge&logo=mail.ru)](mailto:me@carlosmarx.com)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=linkedin&color=0A66C2&style=for-the-badge&logo=linkedin)](http://linkedin.com/in/setsevireon)
 [![GitHub](https://img.shields.io/static/v1?label=&message=github&color=181717&style=for-the-badge&logo=github)](https://github.com/setsevireon)
-[![Website](https://img.shields.io/static/v1?label=&message=homepage&color=FF4088&style=for-the-badge&logo=hugo&logoColor=white)](http://setsevireon.dev)
+[![Website](https://img.shields.io/static/v1?label=&message=webpage&color=FF4088&style=for-the-badge&logo=hugo&logoColor=white)](http://setsevireon.dev)
