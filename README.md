@@ -1,7 +1,3 @@
-### About me
-
-Hi! I'm Marx. I am still too emotionally attached to the **Sysadmin** title to let it go. Also, I find *the new* role titles too confusing. So, I call myself a **Sysadmin Who Codes**.
-
 [![Marx's GitHub stats](https://github-readme-stats.vercel.app/api?username=setsevireon&hide=stars&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/setsevireon)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setsevireon&layout=compact&theme=dark)](https://github.com/setsevireon)
